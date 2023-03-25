@@ -1,0 +1,10 @@
+.content{
+    width: 90%;
+    margin: 5% auto;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+}
+h1,p{
+    display: block;
+}

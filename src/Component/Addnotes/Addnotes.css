@@ -1,0 +1,61 @@
+.notes{
+    width: 100%;
+    min-height: 50vw;
+    max-height: 100vw;
+     display: flex;
+    flex-direction: column;
+    background-image: url("../../images/wall.jpeg");
+}
+
+.navbar{
+    width: 90%;
+    margin: 0px auto;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+
+}
+.ul{
+     display: flex;
+    flex-direction: row;
+}
+.li{
+    list-style: none;
+    padding: 4px;
+    color: white;
+    margin-left: 4px;
+}
+
+.addnotes{
+    width: 600px;
+    height: 500px;
+    margin: 3% auto;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.tit{
+    width: 100%;
+    height: 30px;
+    border-radius: 8px;
+}
+.des{
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+}
+.button-1{
+    margin: -17% auto;
+    width:600px;
+    height: 50px;
+}
+.btn{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    background-color: blue;
+    color: white;
+}

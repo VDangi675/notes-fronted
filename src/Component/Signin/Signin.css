@@ -1,0 +1,57 @@
+
+.container-box{
+    width: 100%;
+    height: 50vw;
+      background-color: rgb(84, 105, 246);
+    position: absolute;
+    margin-top: -40px;
+}
+
+.form{
+    width: 400px;
+    height: 400px;
+    margin: 10% auto;
+    box-shadow: 2px 2px 2px 2px gray;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputfeilds{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+}
+
+input{
+padding: 4px;
+margin-bottom: 20px;
+}
+.btn-2{
+    width: 200px;
+    height: 40px;
+    font-size: large;
+    margin: auto;
+    color: white;
+     border: none;
+    background-color: rgb(84, 105, 246);
+    margin-top: 2px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.button{
+    margin-top: 20%;
+    margin-left: 8%;
+    position: absolute;
+   
+}
+
+h6{ top: -15%;
+    position: relative;
+    margin-left:60% ;
+
+}
